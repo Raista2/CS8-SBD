@@ -70,7 +70,7 @@ function EAServices() {
                                         Your new place to play. Fast downloads, less waiting, more playing.
                                         The EA app is the best place to play our games.
                                     </p>
-                                    <button className="bg-green-600 hover:bg-green-700 px-4 py-2 md:px-6 md:py-3 rounded-md font-semibold transition-colors w-full text-sm md:text-base">
+                                    <button href="https://www.ea.com/ea-app#downloads" className="bg-green-600 hover:bg-green-700 px-4 py-2 md:px-6 md:py-3 rounded-md font-semibold transition-colors w-full text-sm md:text-base">
                                         Download Now
                                     </button>
                                 </div>
